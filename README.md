@@ -1,7 +1,7 @@
 # Laravel Real Time Notification (Withou Pusher)
 
 
-![alt text](https://github.com/AjayYadavAi/laravel-real-time-notification/blob/main/notification-realtime.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/laravel-real-time-notification/blob/main/Notification-realtime.png?raw=true)
 
 - [Laravel Websockets](https://beyondco.de/docs/laravel-websockets/getting-started/introduction).
 - [Vue 3](https://v3.vuejs.org/).
