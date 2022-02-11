@@ -1,4 +1,4 @@
-# Laravel Real Time Notification (Withou Pusher)
+# Laravel Real Time Notification (Without Pusher)
 
 
 ![alt text](https://github.com/AjayYadavAi/laravel-real-time-notification/blob/main/Notification-realtime.png?raw=true)
